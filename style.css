@@ -4,6 +4,8 @@ body {
     background-color: #ffffff;
     color: #EEEEEE;
     font-family: Arial, sans-serif;
+    display: block;
+    text-align: center;
 }
 
 .container {
